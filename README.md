@@ -15,8 +15,16 @@ Hangzhou Metro is an application based on a real-world automated fare collection
 ### Function
 
 * **Data Filter**: Load data according to selection
+
+![](https://github.com/PeiyuChen1005/SJTU-Principles-and-Practice-of-Problem-Solving-2019Fall/blob/main/image/fig1.png?raw=true)
+
 * **Traffic Trend**: Plot inflow,outflow and total flow trend of a specific station in a specific time period
+
+![](https://github.com/PeiyuChen1005/SJTU-Principles-and-Practice-of-Problem-Solving-2019Fall/blob/main/image/fig5.png?raw=true)
+
 * **Routes Recommendation**: Give feasible path suggestions to users  including options of `Shortest Route`,`Least Crowded Route`,`Recommended Route` and `All Routes`.
+
+![](https://github.com/PeiyuChen1005/SJTU-Principles-and-Practice-of-Problem-Solving-2019Fall/blob/main/image/fig6.png?raw=true)
 
 ### Environment Requirements
 
